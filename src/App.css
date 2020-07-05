@@ -1,0 +1,18 @@
+.wrap{
+	width: 100vw;
+	height: 100vh;
+	display: flex;
+	justify-content: center;
+	align-items: center;
+}
+.wrap .wrap-box{
+	width: 500px;
+}
+
+.wrap .wrap-box .wrap-top{
+	display: flex;
+	margin-bottom: 20px;
+}
+.wrap .wrap-box .wrap-top button{
+	margin-left: 10px;
+}
